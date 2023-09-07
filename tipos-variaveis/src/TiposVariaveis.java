@@ -7,6 +7,7 @@ public class TiposVariaveis {
         String name = "Matheus";
         double number2 = 2.44;
         boolean isTrue = true; 
+        char sex = 'M';
 
         //Declaração de constante
 
