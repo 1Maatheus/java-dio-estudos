@@ -1,0 +1,10 @@
+Estrutura condicional: 
+  A estrutura condicional possibilita a escolha de um grupo de ações e comportamentos a serem executados quando determinadas condições são ou não satisfestas. A estrutura condicional pode ser Simples ou Composta.
+
+Condicionais simples:
+  Ocorre somente quando a condição for positiva ou negativa.
+  Por exemplo: Condicionais if/else.
+
+Condicionais compostas:
+  Ocorre quando o programa deverá seguir mais de uma jornada de execução, condicionada a uma regra de negócio.
+  Por exemplo: 
