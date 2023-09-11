@@ -8,3 +8,10 @@ Condicionais simples:
 Condicionais compostas:
   Ocorre quando o programa deverá seguir mais de uma jornada de execução, condicionada a uma regra de negócio.
   Por exemplo: 
+
+Operador ternário: 
+  O operador ternário é um recurso para tomada de decisões com objetivo similar ao do if/else, mas que é codificado em apenas uma linha.
+  Sintaxe do operador ternário: (expressão booleana) ? código 1 : código 2;
+
+Switch case:
+  A estrutura Switch case, compara o valor de cada caso com o da variável sequencialmente, e sempre que encontra um valor correspondente, executa o código associado ao caso. Para evitar que as comparações continuem após um caso correspondente ter sido encontrado, acrescentamos o comando break no final de cada bloco de códigos. O comando breaj, quando executado, encerra a execução da estrutura onde ele se encontra.
