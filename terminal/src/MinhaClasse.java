@@ -14,7 +14,6 @@ public class MinhaClasse {
         System.out.println("Digite a sua altura: ");
         double altura = scanner.nextDouble();
 
-
         System.out.println("Olá, me chamo " + nome + "!");
         System.out.println("Tenho " + idade + " anos.");
         System.out.println("Minha altura é " + altura + " cm.");
