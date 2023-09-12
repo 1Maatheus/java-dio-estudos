@@ -18,3 +18,10 @@ Switch case:
 
 Laços de repetição: 
   Laços de repetição ou laços de iteração, são comandos que permitem iteração de código, ou seja, que comandos presentes no bloco sejam repetidos diversas vezes.
+
+
+---------------------------------------------------------------------------------------------------
+
+Exceções:
+  Ao executar o código Java, diferentes erros podem acontecer: erros de codificação feitos pelo programador, erros devido a entrada errada ou outros imprevistos etc...
+  Quando ocorre um erro, o Java normalmente para e gera uma mensagem de erro. O termo técnico para isso é: Java lançará uma exceção (jogará um erro).
