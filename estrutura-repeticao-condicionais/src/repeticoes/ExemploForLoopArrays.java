@@ -1,6 +1,6 @@
 package repeticoes;
 
-public class ForLoopArrays {
+public class ExemploForLoopArrays {
   public static void main(String[] args) {
     String carros [] = {"Ferrari", "Mercedes", "BMW", "Audi", "Volkswagen", "Supra"};
 
