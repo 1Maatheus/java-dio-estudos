@@ -15,3 +15,6 @@ Operador ternário:
 
 Switch case:
   A estrutura Switch case, compara o valor de cada caso com o da variável sequencialmente, e sempre que encontra um valor correspondente, executa o código associado ao caso. Para evitar que as comparações continuem após um caso correspondente ter sido encontrado, acrescentamos o comando break no final de cada bloco de códigos. O comando breaj, quando executado, encerra a execução da estrutura onde ele se encontra.
+
+Laços de repetição: 
+  Laços de repetição ou laços de iteração, são comandos que permitem iteração de código, ou seja, que comandos presentes no bloco sejam repetidos diversas vezes.
