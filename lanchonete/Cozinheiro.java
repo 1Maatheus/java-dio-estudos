@@ -49,3 +49,5 @@ public class Cozinheiro {
   public void pedirIngredientes(Almoxarife almoxarife) {
     almoxarife.entregarIngredientes();
   }
+
+}
