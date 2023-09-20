@@ -7,41 +7,37 @@ public class Cozinheiro {
     System.out.println("Adicionando lanche no balcão.");
   }
 
-  public void adicinarSucoNoBalcao() {
+  public void adicionarSucoNoBalcao() {
     System.out.println("Adicionando suco no balcao.");
   }
 
   public void adicionarComboNoBalcao() {
     adicionarLanhceNoBalcao();
-    adicinarSucoNoBalcao();
+    adicionarSucoNoBalcao();
   }
 
-  public void prepararLanche() {
+  private void prepararLanche() {
     System.out.println("Preparando lanche.");
   }
 
-  public void selecionarIngredientesLanche() {
+  private void selecionarIngredientesLanche() {
     System.out.println("Selecionado o pão, salada, ovo e carne.");
   }
 
-  public void selecionarIngredientesVitamina() {
+  private void selecionarIngredientesVitamina() {
     System.out.println("Selecionado fruta, leite e suco.");
   }
 
-  public void lavarIngredientes() {
+  private void lavarIngredientes() {
     System.out.println("Lavando ingredientes.");
   }
 
-  public void baterVitaminaLiquidificador() {
+  private void baterVitaminaLiquidificador() {
     System.out.println("Batendo vitamina liquidificador.");
   }
 
-  public void fritarIngredientesLanche() {
+  private void fritarIngredientesLanche() {
     System.out.println("Fritando a carne e ovo para o hamburger.");
-  }
-
-  public void pedirParaTrocarGas(Atendente meuAmigo) {
-    meuAmigo.trocarGas();
   }
 
   public void pedirParaTrocarGas(Almoxarife meuAmigo) {
@@ -52,8 +48,8 @@ public class Cozinheiro {
     almoxarife.entregarIngredientes();
   }
 
-  public void prepararVitamina() {
-
+  private void prepararVitamina() {
+    System.out.println("Preparando vitamina.");
   }
 
 }

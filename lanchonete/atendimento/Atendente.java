@@ -13,7 +13,7 @@ public class Atendente {
     System.out.println("Recebendo pagamento.");
   }
 
-  public void trocarGas() {
+  void trocarGas() {
     System.out.println("Atendente trocando o gas.");
   }
 
