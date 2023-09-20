@@ -1,17 +1,13 @@
-public class MSNMessenger {
+public class MSNMessenger extends ServicoMensagem {
+
+  @Override
   public void enviarMensagem() {
-    System.out.println("Enviando mensagem...");
+    System.out.println("Enviando mensagem pelo MSN Messenger");
   }
 
+  @Override
   public void receberMensagem() {
-    System.out.println("Recebendo mensagem...");
+    System.out.println("Recebendo mensagem pelo MSN Messenger");
   }
-
-  public void validarConectadoInternet() {
-    System.out.println("Validando conexão com a rede...");
-  }
-
-  public void salvarHistoricoMensagem() {
-    System.out.println("Salvando o histórico de mensagens...");
-  }
+ 
 }
