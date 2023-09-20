@@ -18,4 +18,4 @@ Classe de controle(controller):
   Classes que possuem a finalidade de disponibilizar alguma comunicação externa à nossa aplicação, tipo http, web ou webservices.
 
 Classe utilirária(util):
-  Classe que contém recursos comuns à toda nossa aplicação.
+  Classe que contém recursos comuns à toda nossa aplicação. 
