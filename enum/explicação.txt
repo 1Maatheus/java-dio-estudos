@@ -1,0 +1,4 @@
+Enum:
+  Enum é um tipo especial de classe onde os objetos são previamente criados, imutáveis e disponíveis por toda aplicação.
+  Usamos Enum quando o nosso modelo de negócio contém objetos de mesmo contexto que já existem pré-estabelecidos com a certeza de não haver tanta alteração de valores.
+  Como o enum é um conjunto de objetos, log, estes objetos podem conter atributos e métodos.
