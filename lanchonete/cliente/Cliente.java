@@ -10,14 +10,12 @@ public class Cliente {
   }
 
   public void pagarConta() {
+    consultarSaldoAplicativo();
     System.out.println("Pagando conta.");
   }
 
-  public void consultarSaldoAplicativo() {
+  private void consultarSaldoAplicativo() {
     System.out.println("Consultando saldo no aplicativo.");
   }
 
-  public void pegarPedidoBalcao() {
-    System.out.println("Pegando o pedido no balcão.");
-  }
 }

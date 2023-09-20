@@ -40,11 +40,11 @@ public class Cozinheiro {
     System.out.println("Fritando a carne e ovo para o hamburger.");
   }
 
-  public void pedirParaTrocarGas(Almoxarife meuAmigo) {
+  private void pedirParaTrocarGas(Almoxarife meuAmigo) {
     meuAmigo.trocarGas();
 }
 
-  public void pedirIngredientes(Almoxarife almoxarife) {
+  private void pedirIngredientes(Almoxarife almoxarife) {
     almoxarife.entregarIngredientes();
   }
 
