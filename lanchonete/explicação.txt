@@ -1,0 +1,2 @@
+Modificador default: 
+  Associado a organização das classes por pacotes, algumas implementações não precisam estar disponíveis por todo o projeto, e este modfificador de acesso restringe a visibilidade por pacotes. 

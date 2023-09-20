@@ -1,4 +1,6 @@
-package lanchonete;
+package lanchonete.atendimento.cozinha;
+
+import lanchonete.atendimento.Atendente;
 
 public class Cozinheiro {
   public void adicionarLanhceNoBalcao() {
@@ -51,7 +53,7 @@ public class Cozinheiro {
   }
 
   public void prepararVitamina() {
-    
+
   }
 
 }

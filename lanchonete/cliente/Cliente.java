@@ -1,4 +1,4 @@
-package lanchonete;
+package lanchonete.cliente;
 
 public class Cliente {
   public void escolherLanche() {
