@@ -50,4 +50,8 @@ public class Cozinheiro {
     almoxarife.entregarIngredientes();
   }
 
+  public void prepararVitamina() {
+    
+  }
+
 }
