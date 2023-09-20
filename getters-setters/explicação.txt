@@ -1,0 +1,9 @@
+Getters e setters:
+  São métodos utilizados para buscar valores de atributos ou definir novos valores de atributos de instâncias de classes.
+
+Getter: 
+  Retorna o valor do atributo especificado.
+
+Setter: 
+  Define o outro novo valor para o atributo especificado.
+  
